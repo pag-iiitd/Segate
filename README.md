@@ -1,0 +1,2 @@
+# Segate
+Semantic Gap Detector
